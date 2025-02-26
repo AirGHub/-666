@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46b7fb3bd510e36e",
+        "id": "df2defccf47d8d10",
         "type": "tabs",
         "children": [
           {
-            "id": "5dbb8f12742a3de3",
+            "id": "be2b0309053e03b6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
-                "bFile": ".obsidian/plugins/remember-cursor-position/cursor-positions.json",
-                "aRef": ""
+                "file": "计算机重要资源.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: cursor-positions.json"
+              "icon": "lucide-file",
+              "title": "计算机重要资源"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag卡码网设计模式PDF",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "2Hop Links"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "补考资料.md",
-                "followCursor": true,
+                "file": "计算机重要资源.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "补考资料 的大纲"
+              "title": "计算机重要资源 的大纲"
             }
           },
           {
@@ -176,10 +177,10 @@
             "id": "d9ff13f61446dce2",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -191,13 +192,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5612794b6772ce1d",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dbb8f12742a3de3",
+  "active": "be2b0309053e03b6",
   "lastOpenFiles": [
     "计算机重要资源.md",
     "补考资料.md",
